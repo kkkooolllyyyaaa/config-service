@@ -9,5 +9,5 @@ spring:
       server:
         git:
           uri: https://github.com/kkkooolllyyyaaa/config-service.git
-          default-label: master
+          default-label: main
           force-pull: true
