@@ -11,3 +11,6 @@ spring:
           uri: https://github.com/kkkooolllyyyaaa/config-service.git
           default-label: main
           force-pull: true
+          search-paths:
+            - '{application}'
+            - org-manager
